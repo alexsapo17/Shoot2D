@@ -14,7 +14,7 @@ public class UIControl : MonoBehaviour
         {
             playerController = FindObjectOfType<PlayerController>();
         }
-    }
+    } 
 
     public void OnShootButtonPressed()
     {
